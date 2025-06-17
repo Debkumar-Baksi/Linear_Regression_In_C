@@ -54,16 +54,16 @@ These are sample data points representing x and y values. The regression model t
 
 Compile the code:
 
-
-gcc linear_regression.c -o linear_regression
-
+```
+gcc lr.c -o lr
+```
 
 
 Run the program:
 
-
-./linear_regression
-
+```
+./lr
+```
 
 ## 📦 Output
 Example output:
