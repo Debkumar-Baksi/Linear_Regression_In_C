@@ -1,5 +1,3 @@
-Here's a sample README.md file for your C project that implements linear regression from scratch:
-
 # 📈 Linear Regression in C
 This project demonstrates how to implement simple linear regression from scratch using the C programming language. It calculates the slope (m) and intercept (c) of the best-fit line for a given set of data points using the least squares method and predicts the output values based on the regression model.
 
@@ -122,5 +120,3 @@ Function decomposition
 
 ## 📄 License
 This project is open-source and available under the MIT License.
-
-Let me know if you want this in .txt format or want to push it to GitHub with styling!
